@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="">
-		<img src="https://i.postimg.cc/VLPpCqRk/Captura-de-pantalla-55-edited.jpg" width="714.512">
+		<img src="https://i.postimg.cc/VLPpCqRk/Captura-de-pantalla-55-edited.jpg" width="1000">
 	</a>
 <br>
 <br>
@@ -33,21 +33,49 @@ Windows
 ```
 python setup.py install
 ```
+Mac OS
 
-
+```
+python ./setup.py install
+```
+Linux
+```
+sudo python3 setup.py install
+```
 # Usage
 
-Open your terminal on the [fastyper](https://github.com/hectarea/fastyper) folder
+Open your terminal on the [fastyper](https://github.com/hectarea/fastyper) folder, and there are 2 options:
 
+Using the comand line:
+```
+python fastyper.py --randomwords 10 --repeat 10
+```
+Using the terminal framework:
+```
+python fastyper.py
+```
+# Command line
 
-# Break down into end to end tests
-
-Explain what these tests test and why
+Typing and sending random words
 
 ```
-Give an example
+python fastyper.py --randomwords [number of random words to generate] --repeat [number of times to repeat]
 ```
+Typing and sending random names
 
+```
+python fastyper.py --randomnames [number of random names to generate] --repeat [number of times to repeat]
+```
+Typing and sending a custom word or phrase
+
+```
+python fastyper.py --word [words or phrase to use, separated by "_"] --repeat [number of times to repeat]
+```
+Typing and sending a custom word or phrase, cahracter by character
+
+```
+python fastyper.py --splitword [words or phrase to use, separated by "_"] --repeat [number of times to repeat]
+```
 # And coding style tests
 
 Explain what these tests test and why
