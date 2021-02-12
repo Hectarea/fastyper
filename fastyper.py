@@ -118,7 +118,7 @@ if (args.word == "None") and (args.randomwords == "None") and (args.randomnames 
     Type '1' for typing random generated words
     Type '2' for typing random generated names
     Type '3' for typing a custom word or phrase
-    Type '4' for typing a custom word or phrase and spit into individual characters
+    Type '4' for typing a custom word or phrase and split into individual characters
     """)
                 optio = int(input("ƒ(x)= "))
                 print("\n")
