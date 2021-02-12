@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="">
-		<img src="https://i.postimg.cc/VLPpCqRk/Captura-de-pantalla-55-edited.jpg" width="1000">
+		<img src="https://i.postimg.cc/VLPpCqRk/Captura-de-pantalla-55-edited.jpg" width="714.512">
 	</a>
 <br>
 <br>
