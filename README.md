@@ -26,7 +26,7 @@ This project was developed for general pruposes. [Hectarea](https://github.com/h
 
 # How to install Fastyper by Hectarea
 
-[![Watch the video](https://i.ytimg.com/vi/bCpAaUwp1hk/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
+[![Watch the video](https://i.postimg.cc/9M36j9Jt/Captura-de-pantalla-141.png)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
 
 
 
