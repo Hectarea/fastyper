@@ -98,7 +98,7 @@ Typing and sending a custom word or phrase, cahracter by character
 python fastyper.py --splitword [words or phrase to use, separated by "_"] --repeat [number of times to repeat]
 ```
 
-####if python is not working, use python3 instead:
+- if python is not working, use python3 instead:
 
 
 Typing and sending random words
