@@ -21,12 +21,14 @@ This project was developed for general pruposes. [Hectarea](https://github.com/h
 - Fastyper was designed for windows, so the Mac OS and Linux version could be unestable
 
 # How to install Python 3
+[How to install Python 3 -  Youtube](https://www.youtube.com/watch?v=V_ACbv4329E)
 
-[![Watch the video](https://miro.medium.com/max/2560/0*8aY8pX5CoNGImZU4.png)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
+[![Watch the video](https://i.ytimg.com/vi/bCpAaUwp1hk/maxresdefault.jpg)](https://www.youtube.com/watch?v=V_ACbv4329E)
 
 # How to install Fastyper by Hectarea
+[How to install Fastyper by Hectarea -  Youtube](https://www.youtube.com/watch?v=bCpAaUwp1hk)
 
-[![Watch the video](https://i.postimg.cc/9M36j9Jt/Captura-de-pantalla-141.png)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
+[![Watch the video](https://i.ytimg.com/vi/bCpAaUwp1hk/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
 
 
 
