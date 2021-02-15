@@ -22,9 +22,9 @@ This project was developed for general pruposes. [Hectarea](https://github.com/h
 
 # How to install Python 3
 
-[![Watch the video](https://i.ytimg.com/vi/bCpAaUwp1hk/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
+[![Watch the video](https://miro.medium.com/max/2560/0*8aY8pX5CoNGImZU4.png)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
 
-# Tutorial
+# How to install Fastyper by Hectarea
 
 [![Watch the video](https://i.ytimg.com/vi/bCpAaUwp1hk/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCpAaUwp1hk)
 
