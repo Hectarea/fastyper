@@ -8,7 +8,7 @@
 
 
 
-Fastyper by  [Hectarea](https://github.com/hectarea) was designed to instantly type and send custom words or phrases to online chats, such as Zoom meetings, Google meet, Microsoft Teams, Omegle, Whatsapp Web and many other similar apps and programs. Fastyper also has the capabilities for sending random generated names and random generated words and it can be used to type and send word by word, or character by character.
+Fastyper by  [Hectarea](https://github.com/hectarea) was designed to instantly type and send custom words or phrases to online chats, such as Discord, Zoom meetings, Google meet, Microsoft Teams, Omegle, Whatsapp Web and many other similar apps and programs. Fastyper also has the capabilities for sending random generated names and random generated words and it can be used to type and send word by word, or character by character.
 
 # Getting Started
 
