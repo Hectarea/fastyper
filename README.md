@@ -122,9 +122,6 @@ Typing and sending a custom word or phrase, cahracter by character
 python3 fastyper.py --splitword [words or phrase to use, separated by "_"] --repeat [number of times to repeat]
 ```
 
-## Inspiration
-
-Héctarea made this, while being bored doing online school, thinking about a simple way to annoy his classmates, you know "FOR EDUCATIONAL PURPOSES ONLY" 
 
 ## License
 
